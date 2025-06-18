@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is for learning and exploring purpose.
+This is for learning and exploration.
+Author - Akash kumar
